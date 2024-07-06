@@ -9,7 +9,6 @@ Eu me chamo Jefferson e sou um programador Fornt-End, atulamente estou aprendend
 <br>
 Conecte-se comigo:
 
- <img align="left" alt="Coding" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
- <a href="" target="blank'><img alingn="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"/></a>
+ <a href="www.linkedin.com/in/jefferson-prudencio" target="blank"><img alingn="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/></a>
 
 
