@@ -8,4 +8,8 @@ Eu me chamo Jefferson e sou um programador Fornt-End, atulamente estou aprendend
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react"/>
 <br>
 Conecte-se comigo:
-<a href="https://www.linkedin.com/in/jefferson-prudencio/" src=">Instagran</a>
+
+ <img align="left" alt="Coding" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+ <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+
