@@ -10,6 +10,6 @@ Eu me chamo Jefferson e sou um programador Fornt-End, atulamente estou aprendend
 Conecte-se comigo:
 
  <img align="left" alt="Coding" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ <a href="" target="blank'><img alingn="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"/></a>
 
- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 
